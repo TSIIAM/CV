@@ -1,12 +1,3 @@
-<h1>  Mi Curriculum </h1>
-
-<img src="perfil.jpg" width="120">
-
-<h2> Alvaro Mesa Técnico en Soporte Informático</h2>
-<p>Cedula de Identidad: 4246412-5 <br />
-Teléfono: -26014380 -098369509<br />
-tsi.iamesa@gmail.com<br />
-<a href ="http://alvaromesa.com">Presencia Online</a>
 
 
 
